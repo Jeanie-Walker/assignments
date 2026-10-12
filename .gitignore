@@ -1,2 +1,4 @@
 djangogirls/
 .DS_Store
+.venv
+.ipynb_checkpoints/
